@@ -1,0 +1,1 @@
+0,15,30,45 * * * * sudo python /var/www/cocaine.ninja/expire_remove.py
