@@ -1,4 +1,4 @@
-# pomf_expirey_support
+# Pomf Expirey Support
 Expirey support for nokonoko/pomf, nojs only
 
 Steps to reproduce:
