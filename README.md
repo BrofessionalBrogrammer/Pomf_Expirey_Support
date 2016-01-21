@@ -13,4 +13,6 @@ Steps to reproduce:
 
 5.) Type "crontab -e" in your shell, paste the line I have in the crontab file
 
+6.) Make sure all you change all instances of /var/www/cocaine.ninja/ to your own main directory
+
 7.) Enjoy
